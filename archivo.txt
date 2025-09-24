@@ -1,0 +1,6 @@
+hola
+error
+linux
+error fatal
+shell
+comando
